@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/xavidop/book-template/compare/v1.0.0...v1.1.0) (2025-07-24)
+
+
+### Features
+
+* reference images in pdf and epub ([e9b638e](https://github.com/xavidop/book-template/commit/e9b638ea14741af52a055c8d6039a988ed8ceabf))
+
 # 1.0.0 (2025-07-17)
 
 
