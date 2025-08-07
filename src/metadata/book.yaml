@@ -7,11 +7,15 @@ authors:
     email: "email@example.com"
     twitter: "@myhandle"
     website: "https://mysite.dev"
+    github: "https://github.com/myhandle"
+    linkedin: "https://linkedin.com/in/myhandle"
   - name: "author 2"
     bio: "this is the bio for author 2."
     email: "email@example.com"
     twitter: "@myhandle2"
     website: "https://mysite2.dev"
+    github: "https://github.com/myhandle2"
+    linkedin: "https://linkedin.com/in/myhandle2"
 description: |
   A detailed description of your book that will appear in various
   publishing platforms and metadata.
