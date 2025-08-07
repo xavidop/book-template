@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/xavidop/book-template/compare/v1.1.3...v1.1.4) (2025-08-07)
+
+
+### Bug Fixes
+
+* added support for GA ([91c2155](https://github.com/xavidop/book-template/commit/91c21559479f8d34fc86665892d4902c9a47e721))
+* js style ([91fcb28](https://github.com/xavidop/book-template/commit/91fcb28dc3416ffe60ca13a38ccfd992a56b74d4))
+* updated author utils js ([cd631e1](https://github.com/xavidop/book-template/commit/cd631e1d5c7eb900ffe893c55d871bcc4614e3b8))
+
 ## [1.1.3](https://github.com/xavidop/book-template/compare/v1.1.2...v1.1.3) (2025-08-07)
 
 
