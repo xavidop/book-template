@@ -50,8 +50,7 @@ kindle:
 web:
   base_url: "https://yourusername.github.io/your-repo"
   theme: "default"
-  google_analytics: ""
-  disqus_shortname: ""
+  google_analytics: "G-XXXXXXXXXX"  # Replace with your Google Analytics ID
 
 # Social media
 social:
