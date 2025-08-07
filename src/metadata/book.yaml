@@ -15,6 +15,8 @@ authors:
 description: |
   A detailed description of your book that will appear in various
   publishing platforms and metadata.
+pdfDescription: |
+  A concise description of your book that will appear in the PDF version.
 language: en
 date: "2025"
 version: "1.0"
