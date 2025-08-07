@@ -7,6 +7,17 @@
     <meta name="description" content="{{book.description}}">
     <meta name="author" content="{{book.author}}">
     <link rel="stylesheet" href="{{#if chapter}}../assets/style.css{{else}}assets/style.css{{/if}}">
+    
+    {{#if book.web.google_analytics}}
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{book.web.google_analytics}}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{book.web.google_analytics}}');
+    </script>
+    {{/if}}
 </head>
 <body>
     <div class="reading-progress"></div>
