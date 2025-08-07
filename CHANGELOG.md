@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/xavidop/book-template/compare/v1.1.2...v1.1.3) (2025-08-07)
+
+
+### Bug Fixes
+
+* improved website ([ffe1a37](https://github.com/xavidop/book-template/commit/ffe1a375f85baf82f3913b6f3c1c9842f1fd63f2))
+
 ## [1.1.2](https://github.com/xavidop/book-template/compare/v1.1.1...v1.1.2) (2025-08-07)
 
 
