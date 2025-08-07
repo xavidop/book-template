@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/xavidop/book-template/compare/v1.1.4...v1.2.0) (2025-08-07)
+
+
+### Features
+
+* add the ability to click on images and better readability of code blocks ([8565cb0](https://github.com/xavidop/book-template/commit/8565cb060c5b05f473fb8b3dcb011ca874599683))
+
 ## [1.1.4](https://github.com/xavidop/book-template/compare/v1.1.3...v1.1.4) (2025-08-07)
 
 
