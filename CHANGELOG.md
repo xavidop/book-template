@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/xavidop/book-template/compare/v1.2.0...v1.3.0) (2025-09-17)
+
+
+### Features
+
+* added cover and back feature ([2ab5767](https://github.com/xavidop/book-template/commit/2ab5767563e8d03d85b08ef837403b7fe298fb26))
+
 # [1.2.0](https://github.com/xavidop/book-template/compare/v1.1.4...v1.2.0) (2025-08-07)
 
 
